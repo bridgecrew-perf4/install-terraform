@@ -5,7 +5,7 @@ TF_VERSION="${1:-}"
 if [ -z "${TF_VERSION}" ]; then
   echo "ERROR: No version of Terraform specified."
   echo ""
-  echo "export TF_VERSION=0.12.29"
+  echo "./linux.sh 0.12.29"
   echo "./install_terraform.sh"
   exit 1
 fi
