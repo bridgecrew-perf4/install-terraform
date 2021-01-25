@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-TF_VERSION="${1:-`echo ${TF_VERSION}`}"
+TF_VERSION="${1:-}"
 
 if [ -z "${TF_VERSION}" ]; then
   echo "ERROR: No version of Terraform specified."
