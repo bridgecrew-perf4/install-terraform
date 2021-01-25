@@ -1,6 +1,6 @@
 # Install Terraform
 
-(Terraform)[https://www.terraform.io/] is a very useful tool to create and manage infrastructure in the cloud.
+[Terraform](https://www.terraform.io/) is a very useful tool to create and manage infrastructure in the cloud.
 
 Some operating systems have package managers that allows to install `terraform` automatically (e.g. (brew)[https://brew.sh/] on macOS). But if you dont' want to use a package manager, you can run one of these scripts.
 
@@ -8,6 +8,7 @@ Some operating systems have package managers that allows to install `terraform` 
 
 **NOTE:** It expects that `unzip` and `wget` tools are already installed.
 
+curl -fsSL
 How to use?
 
   1) Download the bash script to a local folder.
