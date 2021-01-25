@@ -1,5 +1,9 @@
 # Install Terraform
 
+(Terraform)[https://www.terraform.io/] is a very useful tool to create and manage infrastructure in the cloud.
+
+Some operating systems have package managers that allows to install `terraform` 
+
 ## Linux based
 
 Script that installs `terraform` in a Linux instance. It expects that `unzip` and `wget` tools are already installed.
