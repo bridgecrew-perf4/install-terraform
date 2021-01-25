@@ -6,7 +6,7 @@ Some operating systems have package managers that allows to install `terraform` 
 
 ## Linux based
 
-**NOTE:** It expects that `unzip` and `wget` tools are already installed.
+**NOTE:** It expects that `unzip` and `curl` tools are already installed.
 
 ### How to use?
 
