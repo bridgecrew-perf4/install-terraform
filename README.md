@@ -6,8 +6,7 @@ Some operating systems have package managers that allows to install `terraform` 
 
 ## Linux based
 
-Script that installs `terraform` in a Linux instance. It expects that `unzip` and `wget` tools are already installed.
-Specify the version by passing the terraform as a parameter or by setting the environment variable TF_VERSION
+**NOTE:** It expects that `unzip` and `wget` tools are already installed.
 
 How to use?
 
